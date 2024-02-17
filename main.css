@@ -29,5 +29,25 @@ body {
 
 #main-content{
     margin: 50px;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.container-fluid p{
+    color: aliceblue;
+    font-size: xx-large;
+    font-weight: 400;
+  }
+
+  .nav-item a:hover{
+    color:rgb(82, 0, 82);
+    background-color:blanchedalmond;
+    border-color:rgb(64, 0, 64);
+    font-size:large;
+    font-weight: 700;
+  }
+
+  input[type="checkbox"]
+{
+margin-right:20px;
+}

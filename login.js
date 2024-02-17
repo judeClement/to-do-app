@@ -28,3 +28,6 @@ function validation(){
     return valid;
 
 }
+function display() {
+    window.location.href="main.html";
+}
